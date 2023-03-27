@@ -1,0 +1,36 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(26, 0, 26);
+    color: white;
+}
+
+#heading {
+    padding-left: 350px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: palevioletred;
+    margin: 0;
+    width: 600px;
+    border-radius: 30px;
+}
+
+input {
+    border: 2px solid palevioletred;
+    background-color: rgb(26, 0, 26);
+    width: 250px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+textarea {
+    border: 2px solid palevioletred;
+    background-color: rgb(26, 0, 26);
+    border-radius: 5px;
+}
+
+#area {
+    position: absolute;
+    left: 500px;
+    bottom: 300px;
+}
